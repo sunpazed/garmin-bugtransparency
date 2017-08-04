@@ -1,0 +1,15 @@
+<resources>
+    <strings>
+      <string id="AppName">Transparent</string>
+    </strings>
+
+    <drawables>
+      <bitmap id="LauncherIcon" filename="launcher_icon.png" dithering="none" />
+    </drawables>
+
+    <fonts>
+      <font id="font_block" filename="fonts/outline-32/block-32.fnt"/>
+      <font id="font_outline" filename="fonts/outline-32/outline-32.fnt"/>
+    </fonts>
+
+</resources>

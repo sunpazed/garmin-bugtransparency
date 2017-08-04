@@ -1,1 +1,3 @@
-# garmin-bugtransparency
+### garmin-bugtransparency
+
+Transparency bug with BufferedBitmap
